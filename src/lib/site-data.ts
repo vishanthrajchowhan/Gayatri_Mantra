@@ -102,48 +102,42 @@ export const projects: Project[] = [
     title: "Minimal Oak Wardrobe Suite",
     category: "Wardrobes",
     location: "Kokapet, Hyderabad",
-    image:
-      "https://images.unsplash.com/photo-1578500494198-246f612d03b3?auto=format&fit=crop&w=1200&q=80",
+    image: "https://picsum.photos/600/500?random=10",
   },
   {
     id: 2,
     title: "Contemporary Matte Kitchen",
     category: "Kitchens",
     location: "Gachibowli, Hyderabad",
-    image:
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80",
+    image: "https://picsum.photos/600/500?random=20",
   },
   {
     id: 3,
     title: "Warm Beige Living Lounge",
     category: "Living Rooms",
     location: "Jubilee Hills, Hyderabad",
-    image:
-      "https://images.unsplash.com/photo-1585399363456-c18e8b4a8f3e?auto=format&fit=crop&w=1200&q=80",
+    image: "https://picsum.photos/600/500?random=30",
   },
   {
     id: 4,
     title: "Signature Sliding Wardrobes",
     category: "Wardrobes",
     location: "Kondapur, Hyderabad",
-    image:
-      "https://images.unsplash.com/photo-1567538096051-b6643b46ad11?auto=format&fit=crop&w=1200&q=80",
+    image: "https://picsum.photos/600/500?random=40",
   },
   {
     id: 5,
     title: "Villa Island Kitchen",
     category: "Kitchens",
     location: "Narsingi, Hyderabad",
-    image:
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80",
+    image: "https://picsum.photos/600/500?random=50",
   },
   {
     id: 6,
     title: "Luxury Family Living Hall",
     category: "Living Rooms",
     location: "Banjara Hills, Hyderabad",
-    image:
-      "https://images.unsplash.com/photo-1579428924237-96fa5a6abd1c?auto=format&fit=crop&w=1200&q=80",
+    image: "https://picsum.photos/600/500?random=60",
   },
 ];
 
