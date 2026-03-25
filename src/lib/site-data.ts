@@ -102,7 +102,7 @@ export const projects: Project[] = [
     title: "Minimal Oak Wardrobe Suite",
     category: "Wardrobes",
     location: "Kokapet, Hyderabad",
-    image: "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1540932064986-7048dd0d33cb?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 2,
@@ -116,14 +116,14 @@ export const projects: Project[] = [
     title: "Warm Beige Living Lounge",
     category: "Living Rooms",
     location: "Jubilee Hills, Hyderabad",
-    image: "https://images.unsplash.com/photo-1586023492125-27b2c045b222?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 4,
     title: "Signature Sliding Wardrobes",
     category: "Wardrobes",
     location: "Kondapur, Hyderabad",
-    image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1594725645191-88ec2eeda0be?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 5,
@@ -137,7 +137,7 @@ export const projects: Project[] = [
     title: "Luxury Family Living Hall",
     category: "Living Rooms",
     location: "Banjara Hills, Hyderabad",
-    image: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1616594039964-3a2d97f3f29b?auto=format&fit=crop&w=1200&q=80",
   },
 ];
 
