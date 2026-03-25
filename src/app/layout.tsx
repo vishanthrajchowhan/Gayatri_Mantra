@@ -17,10 +17,10 @@ const bodyFont = Manrope({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://gayatrimantrainteriors.vercel.app"),
+  metadataBase: new URL("https://maainterio.vercel.app"),
   title: {
-    default: "Gayatri Mantra Interiors | Premium Interior Design in Hyderabad",
-    template: "%s | Gayatri Mantra Interiors",
+    default: "Maa Interio | Premium Interior Design in Hyderabad",
+    template: "%s | Maa Interio",
   },
   description:
     "Premium interior design company in Hyderabad specializing in modular wardrobes, kitchens, full home interiors, TV units, false ceilings, and custom furniture.",
@@ -30,10 +30,10 @@ export const metadata: Metadata = {
     "wardrobe design Hyderabad",
     "home interiors Hyderabad",
     "luxury interior company Hyderabad",
-    "Gayatri Mantra Interiors",
+    "Maa Interio",
   ],
   openGraph: {
-    title: "Gayatri Mantra Interiors",
+    title: "Maa Interio",
     description:
       "Transform your home with premium interior solutions in Hyderabad.",
     type: "website",

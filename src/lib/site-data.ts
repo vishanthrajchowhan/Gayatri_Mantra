@@ -152,7 +152,7 @@ export const testimonials = [
     name: "Shruthi Reddy",
     area: "Financial District, Hyderabad",
     quote:
-      "Gayatri Mantra Interiors transformed our 3BHK into a premium, practical home. The wardrobe and kitchen detailing are exceptional.",
+      "Maa Interio transformed our 3BHK into a premium, practical home. The wardrobe and kitchen detailing are exceptional.",
   },
   {
     name: "Rahul Mehta",

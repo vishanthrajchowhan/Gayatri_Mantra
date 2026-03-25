@@ -80,7 +80,7 @@ export default function HomePage() {
 
       <CtaSection
         title="Ready to elevate your home with premium interiors?"
-        description="Book a free consultation with Gayatri Mantra Interiors and get expert recommendations for your wardrobes, modular kitchen, and complete home interiors."
+        description="Book a free consultation with Maa Interio and get expert recommendations for your wardrobes, modular kitchen, and complete home interiors."
       />
     </>
   );

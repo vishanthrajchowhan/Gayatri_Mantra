@@ -1,6 +1,6 @@
-# Gayatri Mantra Interiors Website
+# Maa Interio Website
 
-Premium, conversion-focused business website for Gayatri Mantra Interiors (Hyderabad), built with Next.js, Tailwind CSS, and Framer Motion.
+Premium, conversion-focused business website for Maa Interio (Hyderabad), built with Next.js, Tailwind CSS, and Framer Motion.
 
 ## Stack
 

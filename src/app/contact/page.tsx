@@ -7,7 +7,7 @@ import { SectionHeading } from "@/components/section-heading";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Contact Gayatri Mantra Interiors in Hyderabad for premium wardrobes, modular kitchens, full home interiors, and custom furniture.",
+    "Contact Maa Interio in Hyderabad for premium wardrobes, modular kitchens, full home interiors, and custom furniture.",
 };
 
 export default function ContactPage() {
@@ -28,7 +28,7 @@ export default function ContactPage() {
             </div>
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.22em] text-gold-700">Email</p>
-              <p className="mt-1 text-sm text-ink-700">hello@gayatrimantrainteriors.com</p>
+              <p className="mt-1 text-sm text-ink-700">hello@maainterio.com</p>
             </div>
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.22em] text-gold-700">Location</p>

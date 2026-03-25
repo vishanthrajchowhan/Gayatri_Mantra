@@ -8,7 +8,7 @@ import { projects } from "@/lib/site-data";
 export const metadata: Metadata = {
   title: "Portfolio",
   description:
-    "Browse premium interior design projects by Gayatri Mantra Interiors including wardrobes, modular kitchens, and living room transformations in Hyderabad.",
+    "Browse premium interior design projects by Maa Interio including wardrobes, modular kitchens, and living room transformations in Hyderabad.",
 };
 
 export default function PortfolioPage() {

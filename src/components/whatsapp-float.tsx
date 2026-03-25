@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export function WhatsAppFloat() {
   const message = encodeURIComponent(
-    "Hello Gayatri Mantra Interiors, I need a free consultation for my home interiors in Hyderabad."
+    "Hello Maa Interio, I need a free consultation for my home interiors in Hyderabad."
   );
 
   return (

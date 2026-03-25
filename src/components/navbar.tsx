@@ -13,10 +13,10 @@ export function Navbar() {
   return (
     <header className="sticky top-0 z-50 border-b border-sand-200/70 bg-sand-50/90 backdrop-blur-xl">
       <div className="mx-auto flex w-full max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-10">
-        <Link href="/" className="group inline-flex items-center gap-3" aria-label="Gayatri Mantra Interiors Home">
-          <div className="h-9 w-9 rounded-full bg-gradient-to-br from-gold-300 to-gold-600" />
-          <div>
-            <p className="font-display text-2xl leading-none text-ink-900">Gayatri Mantra</p>
+      <Link href="/" className="group inline-flex items-center gap-3" aria-label="Maa Interio Home">
+        <div className="h-9 w-9 rounded-full bg-gradient-to-br from-gold-300 to-gold-600" />
+        <div>
+          <p className="font-display text-2xl leading-none text-ink-900">Maa Interio</p>
             <p className="text-[10px] uppercase tracking-[0.3em] text-ink-500">Interiors</p>
           </div>
         </Link>
