@@ -103,7 +103,7 @@ export const projects: Project[] = [
     category: "Wardrobes",
     location: "Kokapet, Hyderabad",
     image:
-      "https://images.unsplash.com/photo-1616627459988-8a8f7d9a1e75?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1578500494198-246f612d03b3?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 2,
@@ -111,7 +111,7 @@ export const projects: Project[] = [
     category: "Kitchens",
     location: "Gachibowli, Hyderabad",
     image:
-      "https://images.unsplash.com/photo-1556909212-d5b604d0ecfd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 3,
@@ -119,7 +119,7 @@ export const projects: Project[] = [
     category: "Living Rooms",
     location: "Jubilee Hills, Hyderabad",
     image:
-      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1585399363456-c18e8b4a8f3e?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 4,
@@ -127,7 +127,7 @@ export const projects: Project[] = [
     category: "Wardrobes",
     location: "Kondapur, Hyderabad",
     image:
-      "https://images.unsplash.com/photo-1616486338341-0f5a3e9afba1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1567538096051-b6643b46ad11?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 5,
@@ -135,7 +135,7 @@ export const projects: Project[] = [
     category: "Kitchens",
     location: "Narsingi, Hyderabad",
     image:
-      "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 6,
@@ -143,7 +143,7 @@ export const projects: Project[] = [
     category: "Living Rooms",
     location: "Banjara Hills, Hyderabad",
     image:
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1579428924237-96fa5a6abd1c?auto=format&fit=crop&w=1200&q=80",
   },
 ];
 
