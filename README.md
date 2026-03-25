@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Gayatri Mantra Interiors Website
 
-## Getting Started
+Premium, conversion-focused business website for Gayatri Mantra Interiors (Hyderabad), built with Next.js, Tailwind CSS, and Framer Motion.
 
-First, run the development server:
+## Stack
 
-```bash
+- Next.js (App Router)
+- React + TypeScript
+- Tailwind CSS v4
+- Framer Motion
+- API Route for lead capture (`/api/contact`)
+
+## Included Pages
+
+- Home (`/`)
+- About (`/about`)
+- Services (`/services`)
+- Portfolio (`/portfolio`)
+- Contact (`/contact`)
+
+## Features
+
+- Premium luxury-focused design language (beige, gold accents, warm neutral palette)
+- Mobile-first responsive layout
+- Sticky navbar with CTA
+- Services cards and portfolio grid with filters
+- Portfolio lightbox preview
+- Testimonials slider
+- Contact form with client-side validation + API route validation
+- Floating WhatsApp action button
+- SEO-ready metadata per page
+- Production build validated
+
+## Run Locally
+
+1. Install dependencies:
+
+~~~bash
+npm install
+~~~
+
+2. Start development server:
+
+~~~bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+~~~
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Open in browser:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Production Build
 
-## Learn More
+~~~bash
+npm run build
+npm run start
+~~~
 
-To learn more about Next.js, take a look at the following resources:
+## Deploy to Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Option 1: Vercel Dashboard
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Push this project to GitHub.
+2. Go to https://vercel.com/new.
+3. Import the repository.
+4. Keep default Next.js settings.
+5. Click Deploy.
 
-## Deploy on Vercel
+### Option 2: Vercel CLI
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Install CLI:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+~~~bash
+npm i -g vercel
+~~~
+
+2. Deploy:
+
+~~~bash
+vercel
+~~~
+
+3. For production deployment:
+
+~~~bash
+vercel --prod
+~~~
+
+## Notes Before Go-Live
+
+- Replace placeholder contact details in UI and WhatsApp number.
+- Connect `/api/contact` to your CRM, database, or email provider.
+- Replace sample portfolio images with your completed project photos.
+- Update site URL in metadata (`metadataBase`) after final domain is ready.
